@@ -1,4 +1,7 @@
 # 💸 PaySwift Ghana – Financial Transactions Analysis
+<p>
+  
+</p>
 
 PaySwift Ghana is a fintech company facilitating digital payments and fund transfers across various platforms. This project involves the analysis of PaySwift Ghana’s transaction dataset to uncover operational trends, customer behavior, transaction patterns, and areas for revenue optimization using Power BI and Excel.
 
